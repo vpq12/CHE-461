@@ -1,2 +1,2 @@
 # CHE-461
-Process Control
+Chemical Process Control
